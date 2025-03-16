@@ -1,0 +1,8 @@
+patch:
+  "switches/@last": 
+    name: emoji_suggestion
+    states: [ "😣️","😁️"]
+    reset: 0
+  "melt_eng/enable_sentence": true
+  "melt_eng/enable_completion": true
+  "menu/page_size": 9

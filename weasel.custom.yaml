@@ -1,0 +1,10 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Mar 16 09:59:53 2025"
+  rime_version: 1.11.2
+patch:
+  "style/color_scheme": metroblue
+  "style/font_point": 11
+  "style/horizontal": true
